@@ -151,6 +151,15 @@ Together, these form a **modular, scalable AI system architecture**.
 
 I approach every project from **first principles**, focusing on scalable architecture, clarity of design, and real-world impact.
 
+--- 
+
+## 🧠 Current Thinking
+
+* Designing systems where **AI agents operate as independent units within structured architectures**
+* Exploring how **automation can replace entire workflows, not just tasks**
+* Building towards **interfaces that make complex systems intuitive and controllable**
+* Focusing on **real-world application over theoretical AI capability**
+
 ---
 
 ## 📫 Connect
@@ -158,3 +167,5 @@ I approach every project from **first principles**, focusing on scalable archite
 * LinkedIn: *https://www.linkedin.com/in/sifisoshezi/*
 
 ---
+
+<sub>System Version: v1.0 • Last Updated: 2026</sub>
