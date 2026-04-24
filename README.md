@@ -135,12 +135,12 @@ Together, these form a **modular, scalable AI system architecture**.
 ## 📊 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SifisoScS&show_icons=true&theme=transparent&title_color=78350f&text_color=111827&icon_color=b45309&border_color=78350f" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=SifisoScS&theme=transparent&ring=78350f&fire=b45309&currStreakLabel=78350f&sideLabels=111827&dates=6b7280" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SifisoScS&show_icons=true&theme=default&hide_border=true&title_color=78350f&icon_color=b45309" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=SifisoScS&theme=default&hide_border=true&ring=78350f&fire=b45309" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SifisoScS&layout=compact&theme=transparent&title_color=78350f&text_color=111827&border_color=78350f" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SifisoScS&layout=compact&theme=default&hide_border=true&title_color=78350f" height="130"/>
 </p>
 
 ---
